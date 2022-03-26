@@ -1,0 +1,2 @@
+# Learn_Visualization_on_Matplotlib
+Matplotlib The Figure is the overall window or page that everything is drawn on. It’s the top-level component of all. To the figure you add Axes. The Axes is the area on which the data is plotted. A figure can have multiple axes. Note: when you see, for example, plt.xlim, you’ll call ax.set_xlim() behind the covers.  All methods of an Axes object exist as a function in the pyplot module and vice versa. Mostly, you’ll use the functions of the pyplot module because they’re much cleaner, at least for simple plots!
