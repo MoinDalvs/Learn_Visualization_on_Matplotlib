@@ -1,5 +1,5 @@
 # Learn_Visualization_on_Matplotlib
-##Matplotlib 
+## Matplotlib 
 + The Figure is the overall window or page that everything is drawn on.
 +  It’s the top-level component of all. To the figure you add Axes. 
 +  The Axes is the area on which the data is plotted. 
